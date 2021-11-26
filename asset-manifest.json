@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ethereum-boilerplate/static/css/main.8ed4dda1.chunk.css",
-    "main.js": "/ethereum-boilerplate/static/js/main.b7baf5f4.chunk.js",
-    "main.js.map": "/ethereum-boilerplate/static/js/main.b7baf5f4.chunk.js.map",
+    "main.js": "/ethereum-boilerplate/static/js/main.2c61ffd2.chunk.js",
+    "main.js.map": "/ethereum-boilerplate/static/js/main.2c61ffd2.chunk.js.map",
     "runtime-main.js": "/ethereum-boilerplate/static/js/runtime-main.8c4c269a.js",
     "runtime-main.js.map": "/ethereum-boilerplate/static/js/runtime-main.8c4c269a.js.map",
     "static/css/2.a95be28f.chunk.css": "/ethereum-boilerplate/static/css/2.a95be28f.chunk.css",
@@ -18,6 +18,6 @@
     "static/css/2.a95be28f.chunk.css",
     "static/js/2.ad83b495.chunk.js",
     "static/css/main.8ed4dda1.chunk.css",
-    "static/js/main.b7baf5f4.chunk.js"
+    "static/js/main.2c61ffd2.chunk.js"
   ]
 }
