@@ -76,10 +76,10 @@ const App = ({ isServerInfo }) => {
             defaultSelectedKeys={["contract"]}
           >
             <Menu.Item key="transfers">
-              <NavLink to="/erc20transfers">💸 Transfers</NavLink>
+              <NavLink to="/erc20transfers">💸 My ERC20 Transfers</NavLink>
             </Menu.Item>
             <Menu.Item key="contract">
-              <NavLink to="/contract">📄 Contract</NavLink>
+              <NavLink to="/contract">📄 Hack this Contract </NavLink>
             </Menu.Item>
           </Menu>
 

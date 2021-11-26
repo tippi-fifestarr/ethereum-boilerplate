@@ -16,7 +16,7 @@ const Main = () => {
   console.log(fetchedCategories);
   return (
     <div className="container">
-      <h3>admin page *thx Moralis*</h3>
+      <h3>User Mission Page (connect to Rinkeby Testnet) </h3>
       <div
         style={{
           display: "flex",
